@@ -8,6 +8,7 @@ console.log(arr);
 let x
 let temp
 let white
+let count = 0
 
 start.addEventListener("click", () => {
 
